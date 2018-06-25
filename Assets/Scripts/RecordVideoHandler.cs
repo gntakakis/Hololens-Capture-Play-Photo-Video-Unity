@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using UnityEngine.VR.WSA.WebCam;
+using UnityEngine.XR.WSA.WebCam;
 
 public class RecordVideoHandler : MonoBehaviour {
 

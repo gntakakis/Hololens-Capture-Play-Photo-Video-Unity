@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.VR.WSA.WebCam;
 using System.Linq;
 using System;
+using UnityEngine.XR.WSA.WebCam;
 
 public class PhotoCaptureHandler : MonoBehaviour
 {

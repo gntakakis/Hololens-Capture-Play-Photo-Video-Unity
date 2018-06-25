@@ -21,7 +21,6 @@ public class UIManager : MonoBehaviour {
 
     public void PlayVideo()
     {
-        //((MovieTexture)gameObjCube.GetComponent<Renderer>().material.mainTexture).Play();
+        ((MovieTexture)gameObjPlayVideo.GetComponent<Renderer>().material.mainTexture).Play();
     }
-
 }
